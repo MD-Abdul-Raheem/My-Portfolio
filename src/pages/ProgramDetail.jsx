@@ -23,11 +23,6 @@ function ProgramDetail() {
       <div className="experience-detail-hero">
         <GlassCard className="program-proof-card" hover={false}>
           <span className="type-label virtual">Virtual Experience Program</span>
-          {program.logo && (
-            <div className="program-detail-logo">
-              <img src={program.logo} alt={`${program.provider} logo`} />
-            </div>
-          )}
           <h2>{program.provider}</h2>
           <p>{program.platform}</p>
           {program.proofImage ? (

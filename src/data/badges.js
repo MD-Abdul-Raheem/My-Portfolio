@@ -1,0 +1,58 @@
+export const accentureBadges = [
+  {
+    id: 'learning-conqueror-delivery-learning',
+    title: 'Learning Conqueror - Delivery Learning',
+    category: 'Delivery Learning',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+  {
+    id: 'learning-conqueror-app-dev-primer-assessments-main',
+    title: 'Learning Conqueror - App Dev Primer - Assessments - Main',
+    category: 'App Development',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+  {
+    id: 'learning-conqueror-primer-app-dev-cloud-aws',
+    title: 'Learning Conqueror - Primer App Dev - Cloud - AWS - (T)',
+    category: 'Cloud AWS',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+  {
+    id: 'learning-conqueror-professional-development-learning',
+    title: 'Learning Conqueror - Professional Development Learning',
+    category: 'Professional Development',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+  {
+    id: 'learning-conqueror-primer-app-dev-programming-python',
+    title: 'Learning Conqueror - Primer App Dev - Programming - Python - (T)',
+    category: 'Programming Python',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+  {
+    id: 'learning-conqueror-primer-app-dev-database-mysql',
+    title: 'Learning Conqueror - Primer App Dev - Database - MySQL - (T)',
+    category: 'Database MySQL',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+  {
+    id: 'learning-conqueror-professional-development-assessments',
+    title: 'Learning Conqueror - Professional Development Learning - Assessments',
+    category: 'Professional Development',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+  {
+    id: 'learning-conqueror-primer-app-dev-main',
+    title: 'Learning Conqueror - Primer App Dev - Main - (T)',
+    category: 'App Development',
+    provider: 'Accenture LearnVantage',
+    status: 'Earned',
+  },
+]
